@@ -1,5 +1,5 @@
 # gulp-base64-webfont-css-extended
-Gulp plugin to generate css files with Base64 encoded font data from woff and woff2 files
+Gulp plugin to generate CSS files with Base64 encoded font data from woff and woff2 files.
 
 Based on great work of ygoto3. Go and check this great work: https://github.com/ygoto3/gulp-base64-webfont-css
 

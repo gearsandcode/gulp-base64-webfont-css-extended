@@ -5,6 +5,10 @@ Based on great work of ygoto3. Go and check this great work: https://github.com/
 
 Since my changes divereged a bit I decided to create a separate package.
 
+# Installing with npm
+
+npm install --save-dev https://github.com/marcinkrzeminski/gulp-base64-webfont-css-extended.git
+
 ## Usage
 
 ### Example Gulp task
